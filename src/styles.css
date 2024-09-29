@@ -1,0 +1,126 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Georgia', serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .mobile-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .country-code {
+    width: 100px;
+    padding: 12px;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+  }
+  
+  .mobile-number {
+    flex-grow: 1;
+    border-radius: 0 4px 4px 0;
+  }
+  
+  .form-container {
+    width: 70%;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 30px;
+    font-size: 28px;
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .form-group input:focus,
+  .form-group textarea:focus {
+    outline: none;
+    border-color: #3498db;
+  }
+  
+  textarea {
+    height: 120px;
+    resize: vertical;
+  }
+  
+  button {
+    padding: 12px 24px;
+    background-color: #2c3e50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+  }
+  
+  button:hover {
+    background-color: #34495e;
+  }
+  
+  .error-message {
+    color: #e74c3c;
+    margin-top: 5px;
+  }
+  
+  .resume-preview {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .resume-preview h3 {
+    color: #2c3e50;
+    border-bottom: 1px solid #bdc3c7;
+    padding-bottom: 5px;
+    margin-top: 20px;
+  }
+  
+  .resume-preview ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .resume-preview li {
+    margin-bottom: 5px;
+  }
+  
+  .form-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
