@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/resume-generator/static/css/main.170a30d0.chunk.css",
+    "main.js": "/resume-generator/static/js/main.05b5a4c5.chunk.js",
+    "main.js.map": "/resume-generator/static/js/main.05b5a4c5.chunk.js.map",
+    "runtime~main.js": "/resume-generator/static/js/runtime~main.6963e806.js",
+    "runtime~main.js.map": "/resume-generator/static/js/runtime~main.6963e806.js.map",
+    "static/js/2.d4058332.chunk.js": "/resume-generator/static/js/2.d4058332.chunk.js",
+    "static/js/2.d4058332.chunk.js.map": "/resume-generator/static/js/2.d4058332.chunk.js.map",
+    "static/js/3.70cd959b.chunk.js": "/resume-generator/static/js/3.70cd959b.chunk.js",
+    "static/js/3.70cd959b.chunk.js.map": "/resume-generator/static/js/3.70cd959b.chunk.js.map",
+    "static/js/4.591e7781.chunk.js": "/resume-generator/static/js/4.591e7781.chunk.js",
+    "static/js/4.591e7781.chunk.js.map": "/resume-generator/static/js/4.591e7781.chunk.js.map",
+    "static/js/5.41dd53ab.chunk.js": "/resume-generator/static/js/5.41dd53ab.chunk.js",
+    "static/js/5.41dd53ab.chunk.js.map": "/resume-generator/static/js/5.41dd53ab.chunk.js.map",
+    "index.html": "/resume-generator/index.html",
+    "precache-manifest.0682627cd9abe8e0ea358e78098e6c86.js": "/resume-generator/precache-manifest.0682627cd9abe8e0ea358e78098e6c86.js",
+    "service-worker.js": "/resume-generator/service-worker.js",
+    "static/css/main.170a30d0.chunk.css.map": "/resume-generator/static/css/main.170a30d0.chunk.css.map"
+  }
+}
