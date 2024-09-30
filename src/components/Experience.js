@@ -138,7 +138,11 @@ function Experience({ nextStep, prevStep, handleFormData, formData }) {
           onChange={(e) => setCurrentExperience({ ...currentExperience, role: e.target.value })}
         />
       </div>
-      <button onClick={addExperience}>Add Experience</button>
+
+      {/* Center the Add Experience button */}
+      <div className="button-container" style={{ textAlign: 'center', marginBottom: '20px' }}>
+        <button onClick={addExperience} style={{ padding: '10px 20px' }}>Add Experience</button>
+      </div>
       
       <div className="form-buttons">
         <button onClick={prevStep}>Previous</button>
