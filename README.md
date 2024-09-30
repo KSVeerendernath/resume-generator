@@ -15,10 +15,6 @@ A **React-based Resume Generator** application that allows users to input their 
 A live demo of this project can be accessed here:
 [**Live Demo**](https://KSVeerendernath.github.io/resume-generator)
 
-## Project Structure
-
-resume-generator/ ├── public/ │ └── index.html ├── src/ │ ├── components/ │ │ ├── BasicDetails.js │ │ ├── Experience.js │ │ ├── ProfileSummary.js │ │ ├── Skills.js │ │ └── Preview.js │ ├── App.js │ ├── index.js │ └── styles.css ├── package.json ├── .gitignore └── README.md
-
 ## Installation
 
 To run this project locally, follow these steps:
@@ -39,20 +35,20 @@ npm start
 
 The application will run locally at http://localhost:3000.
 
-Usage
+## Usage
 Basic Details Page: Input your name, email, mobile number, LinkedIn (optional), and location (optional).
 Profile Summary: Enter a brief profile summary about your professional background.
 Experience: Add one or more experiences, including company name, location, joining and end dates, designation, and roles/responsibilities. You can also remove an experience.
 Skills: Add multiple skills to showcase your expertise.
 Preview: Preview your input and download the PDF of the resume.
 
-PDF Generation
+## PDF Generation
 The resume is generated using jsPDF. The PDF includes:
 Header with name, email, mobile number, LinkedIn URL, and location.
 Profile Summary, Skills, and Experience.
 If the content exceeds one page, the remaining information is carried over to subsequent pages.
 
-Deployment
+## Deployment
 To deploy the app to GitHub Pages, follow these steps:
 
 Install gh-pages as a dev dependency:
@@ -73,34 +69,24 @@ npm run deploy
 The app will be deployed at:
 https://KSVeerendernath.github.io/resume-generator
 
-Technologies Used
+## Technologies Used
 React: For building the user interface.
 jsPDF: For generating the resume in PDF format.
 React Icons: For using icons like calendar icons.
 HTML5 & CSS3: For styling the application and handling form inputs.
 GitHub Pages: For deployment.
 
-Future Enhancements
+## Future Enhancements
 Integration with Google Places API: Automatically fetch and suggest work locations.
 Customizable PDF templates: Allow users to choose between different PDF templates for the resume.
 Award Section: Add a section to input awards or achievements.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Author
+## Author
 KSVeerendernath
 GitHub Profile - https://github.com/KSVeerendernath
 
-### Key Sections:
-- **Features**: Lists all the core functionalities of the application.
-- **Project Structure**: Shows the structure of your project.
-- **Installation**: Step-by-step guide to clone, install, and run the project locally.
-- **Usage**: Describes the usage of the application step-by-step.
-- **PDF Generation**: Explains how the PDF resume is generated using `jsPDF`.
-- **Deployment**: Instructions to deploy the app to GitHub Pages.
-- **Technologies Used**: A list of the main technologies involved in the project.
-- **Future Enhancements**: Suggested features for future improvements.
-- **License**: Licensing details for the project.
 
 
 
