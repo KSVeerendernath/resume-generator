@@ -49,12 +49,12 @@ Profile Summary, Skills, and Experience.
 If the content exceeds one page, the remaining information is carried over to subsequent pages.
 
 ## Deployment
-To deploy the app to GitHub Pages, follow these steps:
+**To deploy the app to GitHub Pages, follow these steps**:
 
-Install gh-pages as a dev dependency:
+**Install gh-pages as a dev dependency**:
 npm install gh-pages --save-dev
 
-Add the following scripts to your package.json:
+**Add the following scripts to your package.json**:
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
@@ -62,30 +62,27 @@ Add the following scripts to your package.json:
   "build": "react-scripts build"
 }
 
-
-Deploy the app:
+**Deploy the app**:
 npm run deploy
 
-The app will be deployed at:
-https://KSVeerendernath.github.io/resume-generator
+**The app will be deployed at**: [**Application URL**](https://KSVeerendernath.github.io/resume-generator) 
+
 
 ## Technologies Used
-React: For building the user interface.
-jsPDF: For generating the resume in PDF format.
-React Icons: For using icons like calendar icons.
-HTML5 & CSS3: For styling the application and handling form inputs.
-GitHub Pages: For deployment.
+**React**: For building the user interface.
+**jsPDF**: For generating the resume in PDF format.
+**React Icons**: For using icons like calendar icons.
+**HTML5 & CSS3**: For styling the application and handling form inputs.
+**GitHub Pages**: For deployment.
 
 ## Future Enhancements
-Integration with Google Places API: Automatically fetch and suggest work locations.
-Customizable PDF templates: Allow users to choose between different PDF templates for the resume.
-Award Section: Add a section to input awards or achievements.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+**Integration with Google Places API**: Automatically fetch and suggest work locations.
+**Customizable PDF templates**: Allow users to choose between different PDF templates for the resume.
+**Award Section**: Add a section to input awards or achievements.
 
 ## Author
 KSVeerendernath
-GitHub Profile - https://github.com/KSVeerendernath
+[**GitHub Profile**](https://github.com/KSVeerendernath) 
 
 
 
