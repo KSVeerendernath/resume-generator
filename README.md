@@ -62,13 +62,14 @@ npm install gh-pages --save-dev
   "build": "react-scripts build"
 }
 
-## How to contribute?
-- Contribution: [**Contribution**](https://KSVeerendernath.github.io/resume-generator)
-
 - **Deploy the app**:
 npm run deploy
 
-- **The app will be deployed at**: [**Application URL**](https://KSVeerendernath.github.io/resume-generator) 
+- **The app will be deployed at**: [**Application URL**](https://KSVeerendernath.github.io/resume-generator)
+
+
+## How to contribute?
+- Contribution: [**Contribution**](https://github.com/KSVeerendernath/resume-generator/blob/main/Contibuting.md)
 
 ## Technologies Used
 - **React**: For building the user interface.
@@ -82,8 +83,8 @@ npm run deploy
 - **Customizable PDF templates**: Allow users to choose between different PDF templates for the resume.
 - **Award Section**: Add a section to input awards or achievements.
 
-## Code Of Contuct
-- Code Of Contuct: [**Code Of Contuct**](https://KSVeerendernath.github.io/resume-generator)
+## Code Of Conduct
+- Code Of Contuct: [**Code Of Conduct**](https://github.com/KSVeerendernath/resume-generator?tab=coc-ov-file)
 
 
 ## Author
