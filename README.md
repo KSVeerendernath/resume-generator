@@ -23,6 +23,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/KSVeerendernath/resume-generator.git
+   ```
 
 2. **Navigate to the project directory**:
 cd resume-generator
@@ -80,10 +81,9 @@ npm run deploy
 - **Award Section**: Add a section to input awards or achievements.
 
 ## Author
-KSVeerendernath
-[**GitHub Profile**](https://github.com/KSVeerendernath) 
-
-
+Veerendernath Komala - [**GitHub Profile**](https://github.com/KSVeerendernath) 
+Manoj - [**GitHub Profile**](https://github.com/manutopp) 
+Tejaswini Gurram - [**GitHub Profile**](https://github.com/gurramtejaswini) 
 
 
 
