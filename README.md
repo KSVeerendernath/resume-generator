@@ -89,7 +89,7 @@ npm run deploy
 
 ## Author
 - **Veerendernath Komala**: [**GitHub Profile**](https://github.com/KSVeerendernath) 
-- **Manoj**: [**GitHub Profile**](https://github.com/manutopp) 
+- **Manoj Ponnekanti**: [**GitHub Profile**](https://github.com/manutopp) 
 - **Tejaswini Gurram**: [**GitHub Profile**](https://github.com/gurramtejaswini) 
 
 
