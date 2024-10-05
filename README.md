@@ -93,7 +93,7 @@ npm run deploy
 - **Tejaswini Gurram**: [**GitHub Profile**](https://github.com/gurramtejaswini) 
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE.txt) file for more details.
+This project is licensed under the **MIT License**. See the [**LICENSE**]([https://github.com/KSVeerendernath/resume-generator?tab=coc-ov-file](https://github.com/KSVeerendernath/resume-generator?tab=MIT-1-ov-file) file for more details.
 
 
 
