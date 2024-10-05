@@ -65,8 +65,11 @@ npm install gh-pages --save-dev
 - **Deploy the app**:
 npm run deploy
 
-- **The app will be deployed at**: [**Application URL**](https://KSVeerendernath.github.io/resume-generator) 
+- **The app will be deployed at**: [**Application URL**](https://KSVeerendernath.github.io/resume-generator)
 
+
+## How to contribute?
+- Contribution: [**Contribution**](https://github.com/KSVeerendernath/resume-generator/blob/main/Contibuting.md)
 
 ## Technologies Used
 - **React**: For building the user interface.
@@ -80,10 +83,14 @@ npm run deploy
 - **Customizable PDF templates**: Allow users to choose between different PDF templates for the resume.
 - **Award Section**: Add a section to input awards or achievements.
 
+## Code Of Conduct
+- Code Of Contuct: [**Code Of Conduct**](https://github.com/KSVeerendernath/resume-generator?tab=coc-ov-file)
+
+
 ## Author
-Veerendernath Komala - [**GitHub Profile**](https://github.com/KSVeerendernath) 
-Manoj - [**GitHub Profile**](https://github.com/manutopp) 
-Tejaswini Gurram - [**GitHub Profile**](https://github.com/gurramtejaswini) 
+- **Veerendernath Komala**: [**GitHub Profile**](https://github.com/KSVeerendernath) 
+- **Manoj Ponnekanti**: [**GitHub Profile**](https://github.com/manutopp) 
+- **Tejaswini Gurram**: [**GitHub Profile**](https://github.com/gurramtejaswini) 
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
